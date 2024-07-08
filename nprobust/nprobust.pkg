@@ -1,5 +1,23 @@
-d 'DEA': Data envelopment analysis
+d 'nprobust': Nonparametric Kernel-Based Estimation and Robust Bias-Corrected Inference Use kdrobust And lprobust And lpbwselect STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f kdbwselect.ado
+f kdbwselect.sthlp
+f kdrobust.ado
+f kdrobust.sthlp
+f lpbwselect.ado
+f lpbwselect.sthlp
+f lprobust.ado
+f lprobust.sthlp
+f nprobust.sthlp
+f nprobust_k_fun.mo
+f nprobust_l_fun.mo
+f nprobust_lp_bw.mo
+f nprobust_lp_cer.mo
+f nprobust_lp_coef.mo
+f nprobust_lp_kweight.mo
+f nprobust_lp_mse.mo
+f nprobust_lp_mse_dpi.mo
+f nprobust_lp_q.mo
+f nprobust_lp_res.mo
+f nprobust_lp_vce.mo
+f nprobust_w_fun.mo
